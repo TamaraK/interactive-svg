@@ -5,6 +5,11 @@
   transition: all .5s linear;
 }
 
+#left-eye,
+#right-eye {
+  animation: eyes 3s linear;
+}
+
 @keyframes eyes {
 
   0% {
